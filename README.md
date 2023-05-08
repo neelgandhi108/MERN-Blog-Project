@@ -39,10 +39,7 @@ The MERN Blog Project comes with a range of features that make it easy to create
  - Logout Functionality: Allows users to    logout from the application.
  
  ## Application Preview
- [![Video Title](https://img.youtube.com/vi/t81Z5sHKXlo/0.jpg)](https://www.youtube.com/watch?v=t81Z5sHKXlo)
-
- 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/t81Z5sHKXlo" frameborder="0" allowfullscreen></iframe>
+Link  - https://www.youtube.com/watch?v=t81Z5sHKXlo
 
 ## Integrating DevOps Tools with the MERN Blog Project
 
