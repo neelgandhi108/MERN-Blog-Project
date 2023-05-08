@@ -36,9 +36,14 @@ The MERN Blog Project comes with a range of features that make it easy to create
  - Single Post Page: Displays a single    blog post with its details.
  - Edit Post Page: Allows users to edit    their existing blog posts.
  - Logout Functionality: Allows users to    logout from the application.
+ 
+ ## Application Preview
+ 
+ <iframe width="560" height="315" src="https://youtu.be/t81Z5sHKXlo" frameborder="0" allowfullscreen></iframe>
+
 
 ## Conclusion
 The MERN Blog Project provides an easy and efficient way to create and manage your blog posts. With this application, you can easily create, edit, and delete your blog posts, as well as view all the posts in the database. This project is a great starting point for anyone looking to build a fullstack web application using the MERN stack.
 
-##Credits
+## Credits
 Learnt from Code with Dawid
