@@ -39,3 +39,6 @@ The MERN Blog Project comes with a range of features that make it easy to create
 
 ## Conclusion
 The MERN Blog Project provides an easy and efficient way to create and manage your blog posts. With this application, you can easily create, edit, and delete your blog posts, as well as view all the posts in the database. This project is a great starting point for anyone looking to build a fullstack web application using the MERN stack.
+
+##Credits
+Learnt from Code with Dawid
