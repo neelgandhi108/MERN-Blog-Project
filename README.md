@@ -39,7 +39,7 @@ The MERN Blog Project comes with a range of features that make it easy to create
  
  ## Application Preview
  
- <iframe width="560" height="315" src="https://youtu.be/t81Z5sHKXlo" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/t81Z5sHKXlo" frameborder="0" allowfullscreen></iframe>
 
 
 ## Conclusion
