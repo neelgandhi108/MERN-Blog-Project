@@ -38,8 +38,6 @@ The MERN Blog Project comes with a range of features that make it easy to create
  - Edit Post Page: Allows users to edit    their existing blog posts.
  - Logout Functionality: Allows users to    logout from the application.
  
- ## Application Preview
-Link  - https://www.youtube.com/watch?v=t81Z5sHKXlo
 
 ## Integrating DevOps Tools with the MERN Blog Project
 
